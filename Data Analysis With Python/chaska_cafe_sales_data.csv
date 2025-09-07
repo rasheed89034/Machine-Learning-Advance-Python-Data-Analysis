@@ -1,0 +1,100 @@
+Date,Category,Item,Sales
+01/01/2023,Veg Burgers,Classic Veg Burger,32
+01/01/2023,Veg Burgers,Cheese Veg Burger,31
+01/01/2023,Veg Burgers,Spicy Veg Burger,18
+01/01/2023,Veg Burgers,Aloo Tikki Burger,47
+01/01/2023,Veg Pizzas,Margherita Pizza,18
+01/01/2023,Veg Pizzas,Veggie Delight Pizza,44
+01/01/2023,Veg Pizzas,Paneer Pizza,49
+01/01/2023,Veg Pizzas,Farmhouse Pizza,36
+01/01/2023,Sandwiches,Veg Club Sandwich,8
+01/01/2023,Sandwiches,Paneer Tikka Sandwich,26
+01/01/2023,Sandwiches,Grilled Veg Sandwich,33
+01/01/2023,Sandwiches,Cucumber Sandwich,48
+01/01/2023,Wraps,Veggie Wrap,42
+01/01/2023,Wraps,Paneer Wrap,46
+01/01/2023,Wraps,Aloo Wrap,39
+01/01/2023,Wraps,Hummus Wrap,49
+01/01/2023,Pastas,Veg Alfredo Pasta,19
+01/01/2023,Pastas,Veg Arrabbiata Pasta,26
+01/01/2023,Pastas,Pesto Veg Pasta,46
+01/01/2023,Pastas,Veg Mac and Cheese,16
+01/01/2023,Salads,Greek Salad,47
+01/01/2023,Salads,Caesar Salad,37
+01/01/2023,Salads,Garden Salad,26
+01/01/2023,Salads,Pasta Salad,17
+01/01/2023,Fries,Classic Fries,46
+01/01/2023,Fries,Cheese Fries,7
+01/01/2023,Fries,Masala Fries,28
+01/01/2023,Fries,Peri Peri Fries,21
+01/01/2023,Beverages,Cold Coffee,35
+01/01/2023,Beverages,Lemonade,14
+01/01/2023,Beverages,Mango Smoothie,36
+01/01/2023,Beverages,Green Tea,10
+01/01/2023,Desserts,Brownie,32
+01/01/2023,Desserts,Ice Cream Sundae,19
+01/01/2023,Desserts,Fruit Salad,23
+01/01/2023,Desserts,Chocolate Cake,31
+02/01/2023,Veg Burgers,Classic Veg Burger,26
+02/01/2023,Veg Burgers,Cheese Veg Burger,38
+02/01/2023,Veg Burgers,Spicy Veg Burger,38
+02/01/2023,Veg Burgers,Aloo Tikki Burger,45
+02/01/2023,Veg Pizzas,Margherita Pizza,39
+02/01/2023,Veg Pizzas,Veggie Delight Pizza,20
+02/01/2023,Veg Pizzas,Paneer Pizza,47
+02/01/2023,Veg Pizzas,Farmhouse Pizza,26
+02/01/2023,Sandwiches,Veg Club Sandwich,33
+02/01/2023,Sandwiches,Paneer Tikka Sandwich,45
+02/01/2023,Sandwiches,Grilled Veg Sandwich,35
+02/01/2023,Sandwiches,Cucumber Sandwich,16
+02/01/2023,Wraps,Veggie Wrap,42
+02/01/2023,Wraps,Paneer Wrap,15
+02/01/2023,Wraps,Aloo Wrap,12
+02/01/2023,Wraps,Hummus Wrap,18
+02/01/2023,Pastas,Veg Alfredo Pasta,36
+02/01/2023,Pastas,Veg Arrabbiata Pasta,43
+02/01/2023,Pastas,Pesto Veg Pasta,21
+02/01/2023,Pastas,Veg Mac and Cheese,30
+02/01/2023,Salads,Greek Salad,46
+02/01/2023,Salads,Caesar Salad,15
+02/01/2023,Salads,Garden Salad,36
+02/01/2023,Salads,Pasta Salad,11
+02/01/2023,Fries,Classic Fries,48
+02/01/2023,Fries,Cheese Fries,20
+02/01/2023,Fries,Masala Fries,44
+02/01/2023,Fries,Peri Peri Fries,28
+02/01/2023,Beverages,Cold Coffee,47
+02/01/2023,Beverages,Lemonade,7
+02/01/2023,Beverages,Mango Smoothie,19
+02/01/2023,Beverages,Green Tea,13
+02/01/2023,Desserts,Brownie,35
+02/01/2023,Desserts,Ice Cream Sundae,47
+02/01/2023,Desserts,Fruit Salad,29
+02/01/2023,Desserts,Chocolate Cake,36
+03/01/2023,Veg Burgers,Classic Veg Burger,27
+03/01/2023,Veg Burgers,Cheese Veg Burger,43
+03/01/2023,Veg Burgers,Spicy Veg Burger,48
+03/01/2023,Veg Burgers,Aloo Tikki Burger,29
+03/01/2023,Veg Pizzas,Margherita Pizza,33
+03/01/2023,Veg Pizzas,Veggie Delight Pizza,30
+03/01/2023,Veg Pizzas,Paneer Pizza,22
+03/01/2023,Veg Pizzas,Farmhouse Pizza,49
+03/01/2023,Sandwiches,Veg Club Sandwich,10
+03/01/2023,Sandwiches,Paneer Tikka Sandwich,46
+03/01/2023,Sandwiches,Grilled Veg Sandwich,16
+03/01/2023,Sandwiches,Cucumber Sandwich,15
+03/01/2023,Wraps,Veggie Wrap,50
+03/01/2023,Wraps,Paneer Wrap,32
+03/01/2023,Wraps,Aloo Wrap,46
+03/01/2023,Wraps,Hummus Wrap,25
+03/01/2023,Pastas,Veg Alfredo Pasta,40
+03/01/2023,Pastas,Veg Arrabbiata Pasta,25
+03/01/2023,Pastas,Pesto Veg Pasta,44
+03/01/2023,Pastas,Veg Mac and Cheese,21
+03/01/2023,Salads,Greek Salad,40
+03/01/2023,Salads,Caesar Salad,32
+03/01/2023,Salads,Garden Salad,39
+03/01/2023,Salads,Pasta Salad,35
+03/01/2023,Fries,Classic Fries,10
+03/01/2023,Fries,Cheese Fries,7
+03/01/2023,Fries,Masala Fries,41
